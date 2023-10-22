@@ -34,9 +34,10 @@ h2{
 }
 
 img{
-    margin-top: 10%;
+    margin-top: 5%;
     border-radius: 25px;
     transition: 1s;
+    width: 70%;
     box-shadow: 0 0 20px rgba(174, 174, 174, 0.7);
 }
 
