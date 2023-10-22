@@ -43,7 +43,6 @@ img{
     max-width: 400px;
     box-shadow: 0 0 20px rgba(174, 174, 174, 0.7);
     margin-bottom: 10%;
-    float: inline-end;
 }
 
 img:hover{
